@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# # IA Culinária: Uma Analogia Criativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O meu projeto é uma analogia da IA generativa com a criação de pratos por um chef de cozinha, onde os ingredientes culinários são representados por dados coletados (textos, sons, imagens...) e o prato final é o conteúdo gerado especialmente para cada cliente, ou, neste caso, usuário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi utilizado o chat GPT para criação do roteiro e prompt e o Gamma app para gerar as imagens e slides.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o chat GPT para ter algumas ideias e ajudar com o desenvolvimento do processo criativo. Em seguida utilizei o Gamma app para criaros slides e editei as imagens para criar um estilo mais realista/futurista para combinar com a narrativa criada. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Link: https://gamma.app/docs/spuv4z154q9e3ky?following_id=7iyr153hf7h25yf&follow_on_start=true
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi um desafio interessante criar conteúdo com IA, principalmente como forma de exercitar a criatividade, algo que ainda é um pouco difícil para mim.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
